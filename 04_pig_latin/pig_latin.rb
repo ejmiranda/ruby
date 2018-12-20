@@ -6,6 +6,6 @@ end
 # Original JavaScript Reference
 #
 # function translate(string) {
-# 	let regexp = /([^aeioqu\s]*(?:qu)*)([a-z]+)/gi;
-# 	return string.replace(regexp, `$2$1ay`);
+#   let regexp = /([^aeioqu\s]*(?:qu)*)([a-z]+)/gi;
+#   return string.replace(regexp, `$2$1ay`);
 # }
